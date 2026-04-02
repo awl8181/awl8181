@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Selvi Aulia Safi’i</h1>
-<p align="center">💻 Web Developer | 🎬 Film Enthusiast</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Selvi%20Aulia%20Safi’i&fontSize=30&fontColor=ffffff"/>
+</p>
+
+<h3 align="center">💻 Web Developer | 🎬 Film Enthusiast</h3>
 
 ---
 
@@ -19,14 +22,16 @@ HTML • CSS • JavaScript • Python • Django • MySQL • Bootstrap
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awl8181&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awl8181&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Social Media
 <p align="center">
-Instagram: https://instagram.com/ayuchamieko
+<a href="https://instagram.com/ayuchamieko">
+  <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
+</a>
 </p>
 
 ---
