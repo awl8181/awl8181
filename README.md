@@ -1,48 +1,55 @@
-# Hi there 👋, I'm Selvi Aulia Safi’i
-
-## 🌟 Introduction
-Saya adalah mahasiswa Sistem Informasi yang memiliki minat di bidang pengembangan web, UI/UX design, dan teknologi digital. Saya senang mengeksplorasi ide kreatif serta membangun proyek yang bermanfaat.
+<h1 align="center">Hi 👋, I'm Selvi Aulia Safi’i</h1>
+<h3 align="center">💻 Web Developer | 🎬 Film Enthusiast</h3>
 
 ---
 
-## 💻 Skills & Tech Stack
-- 🌐 HTML, CSS, JavaScript
-- ⚙️ Python, Django
-- 🗄️ MySQL
-- 🎨 Bootstrap & UI/UX Design
-- 🔧 Git & GitHub
+## 🌸 About Me
+- 🎓 Mahasiswa Sistem Informasi  
+- 💡 Tertarik di Web Development & UI/UX  
+- 🎬 Founder komunitas film **NerdNest**  
+- 🚀 Sedang belajar & membangun project digital  
 
 ---
 
-## 🚀 Current Project
-🎬 Sedang mengembangkan sistem ulasan film berbasis Django  
-📱 Membangun komunitas film "NerdNest"
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,bootstrap,git,github" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awl8181&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=awl8181&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awl8181&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=awl8181&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Social Media
-- 📸 Instagram: https://instagram.com/ayuchamieko
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/ayuchamieko">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ✨ Fun Facts
-- 🎬 Pecinta film & suka bikin review
-- ☕ Ngoding + kopi = produktif
-- 💡 Suka eksplor ide bisnis digital
+- ☕ Ngoding sambil kopi itu wajib  
+- 🎬 Suka review film  
+- 💡 Suka ide bisnis & konten kreatif  
 
 ---
 
 ## 💬 Quote
-_"Keep learning, keep growing, and never stop creating."_ 🚀
+<p align="center">
+  <i>"Keep learning, keep growing, and never stop creating."</i>
+</p>
 
 ---
 
 ## 🎨 Banner
-![Banner](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
