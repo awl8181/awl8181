@@ -1,6 +1,5 @@
-# Hi 👋, I'm Selvi Aulia Safi’i
-
-💻 Web Developer | 🎬 Film Enthusiast  
+<h1 align="center">Hi 👋, I'm Selvi Aulia Safi’i</h1>
+<p align="center">💻 Web Developer | 🎬 Film Enthusiast</p>
 
 ---
 
@@ -12,22 +11,27 @@
 ---
 
 ## 💻 Skills
-- HTML, CSS, JavaScript  
-- Python, Django  
-- MySQL  
-- Bootstrap  
+<p align="center">
+HTML • CSS • JavaScript • Python • Django • MySQL • Bootstrap
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=awl8181&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awl8181&show_icons=true" />
+</p>
 
 ---
 
 ## 🌐 Social Media
-Instagram: https://instagram.com/ayuchamieko  
+<p align="center">
+Instagram: https://instagram.com/ayuchamieko
+</p>
 
 ---
 
 ## 💬 Quote
-_"Keep learning and keep growing"_ 🚀
+<p align="center">
+<i>"Keep learning and keep growing"</i>
+</p>
